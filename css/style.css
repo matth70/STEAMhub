@@ -1,0 +1,168 @@
+/*------UNIVERSALS------*/
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+/*--------HEADER--------*/
+header {
+margin-top: 40px;
+}
+
+li a {
+  color: white;
+}
+
+li {
+  background-color: #043457;
+  border-radius: 6px 6px;
+  margin-left: 10px;
+  color: white;
+}
+
+ul {
+  margin-top: 100px;
+}
+
+.logo {
+  width: 120px;
+  margin-left: 320px;
+}
+
+.logo2 {
+  width: 120px;
+  margin-left: 40px;
+}
+
+.logo3 {
+  width: 100px;
+  margin-left: 40px;
+}
+
+.logo4 {
+  width: 80px;
+  margin-left: 40px;
+}
+
+.nameLogo {
+  width: 500px;
+}
+
+/*.satisfy-text {
+  font-family: ;
+  color: #f47f5f;
+}
+
+/*---JUMBOTRON SECTION---*/
+#jumbotron-background {
+  background-image: url('../img/plainblue.jpg');
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#jumbotron-background p {
+  color: #FFFFFF;
+  font-size: 4em;
+  margin-top: 60px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+/*--- PRODUCTS AND SERVICES SECTION ---*/
+
+.featured p {
+  margin-left: 8px;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+.thumbnail {
+  background-color: #043457;
+  border: 1px solid #043457;
+  border-radius: 10px;
+}
+
+.thumbnail img {
+  height: 260px;
+  padding: 9px;
+  padding-top: 24px;
+}
+
+.thumbnail img:hover {
+    transform: scale(1.70);
+    transform: scale(1.115);
+    transition: 0.15s;
+} /*.54, .09*/
+
+.thumbnail a {
+  height: 320px;
+}
+
+.caption h4 {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.caption p {
+  color: white;
+  text-align: center;
+}
+
+.caption form {
+  text-align: center;
+}
+
+.leprechaunss {
+  height: 150px;
+}
+/*-------- FOOTER SECTION --------*/
+footer {
+  background-color: #231F20;
+}
+
+footer img {
+  width: 120px;
+}
+
+.section-border {
+  border-right: 1px solid #323232;
+}
+
+.medium-grey {
+  color: #aaaaab;
+}
+
+address {
+  margin-top: 20px;
+}
+
+i {
+  color: white;
+  height: 20px;
+}
+
+.footerIcons {
+  margin-top: 28px;
+}
+
+footer p {
+  margin-top: -8px;
+  color: #aaaaab;
+}
+
+.copyright {
+  margin-top: 10px;
+  text-align: center;
+  color: #aaaaab;
+}
+
+a.social {
+  text-decoration:none;
+  color: #aaaaab;
+}
+
+a:hover {
+  text-decoration: none;
+}
