@@ -1,0 +1,20 @@
+/*DOCTORS AND MAP BEGINS HERE*/
+.container, .contact {
+  margin-top: 20px;
+}
+
+.doctor {
+  height: 170px;
+}
+
+.joe {
+  margin-left: 90px;
+}
+/*DOCTORS AND MAP ENDS HERE*/
+/*--------------------------------------------------------------*/
+/*PHONE DIRECTORY BEGINS HERE*/
+thead {
+  font-weight: bold;
+}
+/*PHONE DIRECTORY ENDS HERE*/
+
